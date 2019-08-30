@@ -1,4 +1,4 @@
-﻿token= NjE3MTEyMzg3MjQ5NjM1MzM1.XWmY3w.mfj-FcidVTzNx72x_rAuqHH6DpQ
+﻿token= NjE3MTE3NjMwMzg5NjgyMTk3.XWme2Q.GMbiNlHFwMt1oFD0ezytQZBOmLA
 owner= 323133445352194048
 prefix= L
 game= Letto
